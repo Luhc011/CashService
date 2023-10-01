@@ -6,8 +6,8 @@
     <Nullable>enable</Nullable>
 
 
-	  <PackageId>cb6855e0691b4136ac7f11b4b4228288MoneyExtensionLHC</PackageId>
-	  <Version>1.0.0</Version>
+	  <PackageId>MoneyExtensionLHC</PackageId>
+	  <Version>1.0.1</Version>
 	  <License>MIT</License>
 	  <Authors>André Baltieri, Lucas Holanda</Authors>
 	  <Company>lhc.io</Company>
