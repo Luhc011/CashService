@@ -7,16 +7,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyExtension", "MoneyExte
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyExtensionTests", "MoneyExtensionTests\MoneyExtensionTests.csproj", "{6568C80B-5CD5-4310-9CC1-8CB6A859D3EE}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{1C4BCCE4-96E9-4127-93AE-9E4850AC522F}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{4C4E61D0-00EB-4519-9CD1-BC72065993A5}"
-	ProjectSection(SolutionItems) = preProject
-		main.yml = main.yml
-	EndProjectSection
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Media", "Media", "{59313CF9-9BD9-4E1D-B28D-497782E6BAC3}"
 	ProjectSection(SolutionItems) = preProject
 		..\..\..\Users\Lucas\Downloads\icon.png = ..\..\..\Users\Lucas\Downloads\icon.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{E8553AA2-7A40-4B94-B366-124CFB80529B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{0EA42FAF-3882-47D1-BEEF-382446C8813F}"
+	ProjectSection(SolutionItems) = preProject
+		main.yml = main.yml
 	EndProjectSection
 EndProject
 Global
@@ -38,7 +38,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{4C4E61D0-00EB-4519-9CD1-BC72065993A5} = {1C4BCCE4-96E9-4127-93AE-9E4850AC522F}
+		{0EA42FAF-3882-47D1-BEEF-382446C8813F} = {E8553AA2-7A40-4B94-B366-124CFB80529B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4BDD1041-751A-4788-A573-43294D595F3B}
